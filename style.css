@@ -1,0 +1,32 @@
+.mainPage{
+
+ 
+
+}
+
+.main{
+border: 2px solid grey ;
+width: 200px;
+margin: 0 auto
+
+}
+
+.result{
+width: 96%;
+background-color: grey;
+color: white;
+margin-top: 4px;
+}
+
+.clearBtn{
+  background-color: burlywood;
+  width: 47px;
+  
+  }
+
+.btn{
+background-color: beige;
+width: 47px;
+margin-top: 5px;
+
+}
